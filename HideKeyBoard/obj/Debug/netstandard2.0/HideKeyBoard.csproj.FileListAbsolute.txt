@@ -1,0 +1,12 @@
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\bin\Debug\netstandard2.0\HideKeyBoard.deps.json
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\bin\Debug\netstandard2.0\HideKeyBoard.dll
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\bin\Debug\netstandard2.0\HideKeyBoard.pdb
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\obj\Debug\netstandard2.0\HideKeyBoard.csprojAssemblyReference.cache
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\obj\Debug\netstandard2.0\HideKeyBoard.csproj.CoreCompileInputs.cache
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\obj\Debug\netstandard2.0\HideKeyBoard.AssemblyInfoInputs.cache
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\obj\Debug\netstandard2.0\HideKeyBoard.AssemblyInfo.cs
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\obj\Debug\netstandard2.0\XamlC.stamp
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\obj\Debug\netstandard2.0\HideKeyBoard.dll
+D:\HideKeyBoard\HideKeyBoard\HideKeyBoard\obj\Debug\netstandard2.0\HideKeyBoard.pdb
